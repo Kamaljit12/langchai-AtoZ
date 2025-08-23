@@ -1,2 +1,1 @@
-# GenAi
-Generative Ai special
+# `This repositiry will contains langchain tutorials`

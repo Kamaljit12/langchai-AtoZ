@@ -1,3 +1,11 @@
 ipykernel==6.30.1
 langchain==0.3.27
 transformers==4.55.4
+ipykernel
+langchain-groq
+langchain-community
+python-dotenv
+langchain-ollama
+langchain-huggingface
+torch
+openai

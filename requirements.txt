@@ -1,6 +1,6 @@
 ipykernel==6.30.1
 langchain==0.3.27
-transformers==4.55.4
+transformers==5.0.0rc3
 ipykernel
 langchain-groq
 langchain-community
